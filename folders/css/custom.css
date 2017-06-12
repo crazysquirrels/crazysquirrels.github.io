@@ -34,3 +34,8 @@ ul.nav {
 	padding-top: 15px;
 	padding-bottom: 10px;
 }
+
+.jumbotron {
+
+	background-image: url('folders/images/cover.jpg');
+}
